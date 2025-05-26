@@ -33,12 +33,14 @@ Sistema CRM (Customer Relationship Management) para imobiliárias, focado no con
 
 ## 📁 Estrutura do projeto (prevista)
 
+```
 crm-imobi/
 ├── backend/ # Código Java
 ├── frontend/ # Interface HTML/JS/CSS
 ├── sql/ # Scripts de banco de dados
 ├── docs/ # Diagramas e documentação
 └── README.md
+```
 
 ---
 
